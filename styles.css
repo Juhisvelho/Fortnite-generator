@@ -1,8 +1,9 @@
-html{
+html {
     font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
     background-image: url(background.jpg);
-    background-position-x: 50%;
+    background-position: center;
+    background-size: cover; /* Ensures the background image covers the entire viewport */
     background-repeat: no-repeat;
 }
 
